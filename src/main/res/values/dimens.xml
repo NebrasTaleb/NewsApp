@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_height">120dp</dimen>
+    <dimen name="list_item_padding">4dp</dimen>
+    <dimen name="list_item_left_margin">8dp</dimen>
+    <dimen name="news_title_text_size">20sp</dimen>
+    <dimen name="author_name_text_size">16sp</dimen>
+    <dimen name="date_section_text_size">16sp</dimen>
+</resources>

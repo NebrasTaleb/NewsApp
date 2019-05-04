@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tech News</string>
+    <string name="no_news_pages_found">No news pages found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="main_menu_settings_button_title">Settings</string>
+    <string name="settings_activity_main_title">News Settings</string>
+
+    <string name="section_label_science">Science</string>
+    <string name="section_label_sport">Sport</string>
+    <string name="section_label_technology">Technology</string>
+    <string name="section_label_world_news">World News</string>
+
+    <string name="section_value_science">science</string>
+    <string name="section_value_sport">sport</string>
+    <string name="section_value_technology">technology</string>
+    <string name="section_value_world_news">world</string>
+
+    <string name="section_value_default_value">@string/section_value_technology</string>
+    <string name="specific_word_default_value"></string>
+
+    <string name="specific_word_key">tag</string>
+    <string name="section_key">section</string>
+
+    <string name="section_preference_title">News Section</string>
+    <string name="specific_word_preference_title">Search For Specific Words</string>
+
+</resources>
